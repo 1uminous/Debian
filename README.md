@@ -1,2 +1,2 @@
-Debian Bookworm
+Debian Bullseye Stable
 
